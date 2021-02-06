@@ -1,2 +1,2 @@
-# HyperSkill_Python
-For the projects I complete in HyperSkill while learning Python. So far so good!
+# Misc Projects
+For the projects I complete in while learning to program. So far so good!
